@@ -1,5 +1,5 @@
 # Apache Spark cluster project
-!['saprkingflow.drawio.png']()
+![project architecture]('saprkingflow.drawio.png')
 
 ---
 
