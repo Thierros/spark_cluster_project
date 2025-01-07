@@ -1,0 +1,5 @@
+venv
+logs
+__pycahe__
+.idea
+Dockerfile-spark

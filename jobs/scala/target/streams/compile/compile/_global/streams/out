@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/thierros/Desktop/sparkAirflowProject/jobs/scala/wordcount.scala:6:24: value SparkContext is not a member of org.apache.spark.sql.SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m        val sc = spark.SparkContext[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
